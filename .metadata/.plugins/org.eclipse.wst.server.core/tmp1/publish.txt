@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Mar 22 16:58:55 BRT 2019
+org.eclipse.jst.jee.server\:/binary\:/home/web8256/eclipse-workspace/fj21-tarefas/WebContent/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar=/home/web8256/Desktop/apache-tomcat-9.0.17/wtpwebapps/fj21-tarefas/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar
+org.eclipse.jst.jee.server\:fj21-tarefas=/home/web8256/Desktop/apache-tomcat-9.0.17/wtpwebapps/fj21-tarefas

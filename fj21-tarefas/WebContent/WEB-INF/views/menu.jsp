@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Menu</title>
+</head>
+<body>
+	<h2>Página inicial da Lista de Tarefas</h2><br/>
+	<p>Bem vindo, ${usuarioLogado.login }</p><br/>
+	<a href="listaTarefas">Clique aqui para acessar a lista de tarefas</a>
+	<br/>
+	<br/>
+	<br/>
+	<a href="logout">Sair do sistema</a>
+</body>
+</html>
